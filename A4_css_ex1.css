@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: orange;
+    text-align: center;
+}
+ul {
+    list-style-type: disc;
+}
+li ul {
+    list-style-type: circle;
+}
+a:link {
+    color:red;
+    }
+    a:hover {
+        color:green;
+        text-decoration:none;
+    }
+    a:visited {
+        color:purple;
+    }
+    a:active {
+        color:lime;
+    }
